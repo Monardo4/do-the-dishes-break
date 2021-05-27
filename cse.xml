@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine id="a8f424de65fe1af2a" creator="015228198776867139215" language="en" encoding="UTF-8" safesearch="true" cx_id="a8f424de65fe1af2a" last_update_time_millis="1622080615535" autocompletions="true">
+  <Title>Do the dishes break?</Title>
+  <Context>
+    <BackgroundLabels>
+      <Label name="_include_" mode="FILTER"/>
+      <Label name="_exclude_" mode="ELIMINATE"/>
+    </BackgroundLabels>
+  </Context>
+  <LookAndFeel code="4" element_layout="8" theme="7" enable_cse_thumbnail="true" font="2">
+    <Logo/>
+    <Colors/>
+    <Promotions/>
+    <SearchControls/>
+    <Results/>
+  </LookAndFeel>
+  <ImageSearchSettings enable="true" layout="2"/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <cse_advance_settings/>
+</CustomSearchEngine>
